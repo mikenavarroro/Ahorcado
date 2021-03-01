@@ -2,7 +2,7 @@
 
 ## Instalación
 
-### Requerimientos
+### Ubuntu
 
 - python 3
 
